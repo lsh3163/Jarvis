@@ -20,4 +20,4 @@ flask run
 ```
 ## Demo
 
-[![Video]()](https://youtu.be/7uitpQlRIKY)
+[![Video]()](https://github.com/lsh3163/Jarvis/blob/main/video.gif?raw=true)
