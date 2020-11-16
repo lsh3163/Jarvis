@@ -75,13 +75,13 @@ def preprocess_sentence(sentence):
     return sentence
 
 
-predict("전 코딩을 너무 못해요")
-predict("할줄 아는게 아무 것도 없어요")
-predict("킥복싱을 잘하고 싶어요")
-predict("저는 인공지능 과제 하기 싫어요")
-predict("라쿤과 너구리는 달라요?")
-predict("뭘 하면 좋을까요?")
-predict("저희 소프트웨어 응용 학점 얼마나 나올까요?")
-predict("어떤 취미를 가지면 좋을까?")
-predict("저 요즘 자꾸 안좋은 생각이 들고 마음이 불안해요")
-predict("저 요즘 매일 기분좋고 날아갈 것 처럼 행복해요")
+# predict("전 코딩을 너무 못해요")
+# predict("할줄 아는게 아무 것도 없어요")
+# predict("킥복싱을 잘하고 싶어요")
+# predict("저는 인공지능 과제 하기 싫어요")
+# predict("라쿤과 너구리는 달라요?")
+# predict("뭘 하면 좋을까요?")
+# predict("저희 소프트웨어 응용 학점 얼마나 나올까요?")
+# predict("어떤 취미를 가지면 좋을까?")
+# predict("저 요즘 자꾸 안좋은 생각이 들고 마음이 불안해요")
+# predict("저 요즘 매일 기분좋고 날아갈 것 처럼 행복해요")
