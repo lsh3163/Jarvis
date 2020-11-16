@@ -19,5 +19,5 @@ python inference.py
 flask run
 ```
 ## Demo
-<iframe width="640" height="360" src="https://youtu.be/7uitpQlRIKY"  
- frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[![Video]()](https://youtu.be/7uitpQlRIKY)
